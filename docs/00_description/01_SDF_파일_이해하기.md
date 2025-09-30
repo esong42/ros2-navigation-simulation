@@ -47,7 +47,7 @@
 
 아래 구조는 분석할 SDF 파일에 정의된 주행 로봇 구조이다:
 
-<img src="../images/00_description/02-00.png" alt="action with param00" width="500">
+<img src="../images/00_description/01-00.png" alt="action with param00" width="500">
 
 <br>
 
@@ -269,7 +269,7 @@ model 태그는 SDF에서 로봇이나 물체를 하나로 나타내는 단위�
 
 **모델 전체 구조**
 
-<img src="../images/00_description/02-00.png" alt="action with param00" width="500">
+<img src="../images/00_description/01-00.png" alt="action with param00" width="500">
 
 - left_wheel과 right_wheel은 chassis와 각각 revolute 타입의 조인트를 통해 연결
 <br><br>
@@ -390,7 +390,7 @@ model 태그는 SDF에서 로봇이나 물체를 하나로 나타내는 단위�
     - chassis pose를 기준으로 (-0.5 0.6 0) 이동하여 위치한다.
     - (-1.5707, 0, 0) 회전은 x 축 기준으로 90도 회전을 의미한다. 처음에 cylider 태그를 사용하여 생성해주면 원기둥이 옆으로 세워져있지 않으니 바퀴 모양이 아닌 상태이다. 그래서 회전을 해주어야 한다.
         
-        <img src="../images/00_description/02-01.png" alt="action with param00" width="300">
+        <img src="../images/00_description/01-01.png" alt="action with param00" width="300">
         
         (왼쪽 바퀴는 x축 기준으로 90도 회전 안 한 상태)
 <br><br>        
