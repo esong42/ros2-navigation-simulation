@@ -62,13 +62,13 @@ rqt
 
 **2. plugins → visualization → TF Tree**
     
-    <img src="../images/00_description/02-01.png" alt="action with param00" width="300">
-<br>
+<img src="../images/00_description/02-01.png" alt="action with param00">
+<br><br>
     
 **3. 결과**
     
 <img src="../images/00_description/02-02.png" alt="action with param00">
-<br><br><br> 
+<br><br>
 
 **만약 Visualization에 TF Tree 항목이 없다면**
 
